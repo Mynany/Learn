@@ -10,5 +10,5 @@
 * Clutter (US)
 
 ## I SCREWED UP
-* TIKTOK
+* TIKTOC
 

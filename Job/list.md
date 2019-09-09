@@ -8,6 +8,7 @@
 * TCS (US)
 * Palanir.net (US)
 * Clutter (US)
+* 美团
 
 ## DON'T FORGET
 汇量科技

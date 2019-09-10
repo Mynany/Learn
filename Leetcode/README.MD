@@ -4,3 +4,5 @@
 
 * [LEETCODE 72 Edit Distance](https://github.com/Mynany/articles/issues/10#issue-490020534)
 
+* [LEETCODE 760 Maximum Swap](https://leetcode.com/problems/maximum-swap/) Gotta go for dinner aaaaaaaaaaa
+

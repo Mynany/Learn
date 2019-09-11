@@ -6,3 +6,5 @@
 
 * [LEETCODE 760 Maximum Swap](https://leetcode.com/problems/maximum-swap/) Gotta go for dinner aaaaaaaaaaa
 
+* [Leetcode 64 Minimum Path Sum](https://github.com/Mynany/articles/issues/11)
+

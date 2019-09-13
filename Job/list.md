@@ -11,7 +11,10 @@
 * 美团
 
 ## DON'T FORGET
-汇量科技
+* 汇量科技
+* Baidu
+* Tecent
+
 
 ## I SCREWED UP
 * TIKTOC

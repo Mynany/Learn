@@ -4,3 +4,4 @@
 * [One Hundred Years of Solitude]()
 * You Don't Know JS
 * Thinking in Java
+* [Design Pattern] (https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
